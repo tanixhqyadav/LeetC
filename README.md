@@ -7,6 +7,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/tanixhqyadav/LeetC/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A repo for all of my LC's question
 ## Sorting
 |  |
 | ------- |
+| [2283-sort-even-and-odd-indices-independently](https://github.com/tanixhqyadav/LeetC/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
 |  |
