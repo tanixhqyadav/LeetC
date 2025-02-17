@@ -35,4 +35,12 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Math
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
