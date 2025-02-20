@@ -14,10 +14,12 @@ A repo for all of my LC's question
 | ------- |
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/tanixhqyadav/LeetC/tree/master/3447-clear-digits) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
