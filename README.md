@@ -9,6 +9,7 @@ A repo for all of my LC's question
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/tanixhqyadav/LeetC/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanixhqyadav/LeetC/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/tanixhqyadav/LeetC/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/tanixhqyadav/LeetC/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -17,6 +18,7 @@ A repo for all of my LC's question
 | ------- |
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/tanixhqyadav/LeetC/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -46,6 +48,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A repo for all of my LC's question
 ## Matrix
 |  |
 | ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanixhqyadav/LeetC/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Prefix Sum
 |  |
