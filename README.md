@@ -25,6 +25,7 @@ A repo for all of my LC's question
 ## String
 |  |
 | ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanixhqyadav/LeetC/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/tanixhqyadav/LeetC/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
@@ -69,4 +70,8 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanixhqyadav/LeetC/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanixhqyadav/LeetC/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
