@@ -74,4 +74,8 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanixhqyadav/LeetC/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/tanixhqyadav/LeetC/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
