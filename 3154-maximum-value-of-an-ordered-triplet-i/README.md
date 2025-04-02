@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i">3154. Maximum Value of an Ordered Triplet I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/?envType=daily-question&envId=2025-04-02">3154. Maximum Value of an Ordered Triplet I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>.</p>
 
 <p>Return <em><strong>the maximum value over all triplets of indices</strong></em> <code>(i, j, k)</code> <em>such that</em> <code>i &lt; j &lt; k</code>. If all such triplets have a negative value, return <code>0</code>.</p>
 
