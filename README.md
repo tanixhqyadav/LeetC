@@ -7,6 +7,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/tanixhqyadav/LeetC/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
@@ -65,12 +66,14 @@ A repo for all of my LC's question
 ## Math
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Counting
 |  |
@@ -99,6 +102,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/tanixhqyadav/LeetC/tree/master/0476-number-complement) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanixhqyadav/LeetC/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
@@ -113,4 +117,12 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanixhqyadav/LeetC/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
