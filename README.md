@@ -39,6 +39,7 @@ A repo for all of my LC's question
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/tanixhqyadav/LeetC/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/tanixhqyadav/LeetC/tree/master/0014-longest-common-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanixhqyadav/LeetC/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/tanixhqyadav/LeetC/tree/master/3447-clear-digits) |
