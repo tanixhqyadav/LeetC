@@ -8,6 +8,7 @@ A repo for all of my LC's question
 | ------- |
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0056-merge-intervals) |
+| [0575-distribute-candies](https://github.com/tanixhqyadav/LeetC/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanixhqyadav/LeetC/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -31,6 +32,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
+| [0575-distribute-candies](https://github.com/tanixhqyadav/LeetC/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
