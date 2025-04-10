@@ -27,6 +27,7 @@ A repo for all of my LC's question
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/tanixhqyadav/LeetC/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/tanixhqyadav/LeetC/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanixhqyadav/LeetC/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tanixhqyadav/LeetC/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3778-transform-array-by-parity](https://github.com/tanixhqyadav/LeetC/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A repo for all of my LC's question
 | [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanixhqyadav/LeetC/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/tanixhqyadav/LeetC/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tanixhqyadav/LeetC/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
