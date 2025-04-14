@@ -95,6 +95,7 @@ A repo for all of my LC's question
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
+| [3830-find-closest-person](https://github.com/tanixhqyadav/LeetC/tree/master/3830-find-closest-person) |
 ## Backtracking
 |  |
 | ------- |
