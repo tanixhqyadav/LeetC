@@ -35,6 +35,7 @@ A repo for all of my LC's question
 | ------- |
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanixhqyadav/LeetC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
 | [0575-distribute-candies](https://github.com/tanixhqyadav/LeetC/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
@@ -53,6 +54,7 @@ A repo for all of my LC's question
 | [0008-string-to-integer-atoi](https://github.com/tanixhqyadav/LeetC/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/tanixhqyadav/LeetC/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
+| [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanixhqyadav/LeetC/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/tanixhqyadav/LeetC/tree/master/3447-clear-digits) |
@@ -106,6 +108,7 @@ A repo for all of my LC's question
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
