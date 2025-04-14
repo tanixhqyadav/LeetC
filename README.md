@@ -57,6 +57,7 @@ A repo for all of my LC's question
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanixhqyadav/LeetC/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/tanixhqyadav/LeetC/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/tanixhqyadav/LeetC/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A repo for all of my LC's question
 | [2888-minimum-index-of-a-valid-split](https://github.com/tanixhqyadav/LeetC/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanixhqyadav/LeetC/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3778-transform-array-by-parity](https://github.com/tanixhqyadav/LeetC/tree/master/3778-transform-array-by-parity) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/tanixhqyadav/LeetC/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -200,4 +202,8 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/2050-count-good-numbers) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/tanixhqyadav/LeetC/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
