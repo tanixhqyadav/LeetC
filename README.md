@@ -12,6 +12,7 @@ A repo for all of my LC's question
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanixhqyadav/LeetC/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1656-count-good-triplets](https://github.com/tanixhqyadav/LeetC/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/tanixhqyadav/LeetC/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -152,6 +153,7 @@ A repo for all of my LC's question
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/tanixhqyadav/LeetC/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
