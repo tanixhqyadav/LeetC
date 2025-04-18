@@ -10,6 +10,7 @@ A repo for all of my LC's question
 | [0056-merge-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0056-merge-intervals) |
 | [0575-distribute-candies](https://github.com/tanixhqyadav/LeetC/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
+| [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanixhqyadav/LeetC/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1656-count-good-triplets](https://github.com/tanixhqyadav/LeetC/tree/master/1656-count-good-triplets) |
@@ -57,6 +58,7 @@ A repo for all of my LC's question
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
 | [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
+| [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanixhqyadav/LeetC/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/tanixhqyadav/LeetC/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -126,6 +128,7 @@ A repo for all of my LC's question
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanixhqyadav/LeetC/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanixhqyadav/LeetC/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
