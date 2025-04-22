@@ -235,4 +235,8 @@ A repo for all of my LC's question
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [3055-maximum-odd-binary-number](https://github.com/tanixhqyadav/LeetC/tree/master/3055-maximum-odd-binary-number) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/tanixhqyadav/LeetC/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
