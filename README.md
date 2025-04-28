@@ -10,6 +10,7 @@ A repo for all of my LC's question
 | [0015-3sum](https://github.com/tanixhqyadav/LeetC/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/tanixhqyadav/LeetC/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
 | [0575-distribute-candies](https://github.com/tanixhqyadav/LeetC/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
@@ -148,6 +149,7 @@ A repo for all of my LC's question
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tanixhqyadav/LeetC/tree/master/0733-flood-fill) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
@@ -209,11 +211,13 @@ A repo for all of my LC's question
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/tanixhqyadav/LeetC/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/tanixhqyadav/LeetC/tree/master/0733-flood-fill) |
 ## Binary Search Tree
@@ -266,4 +270,8 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/tanixhqyadav/LeetC/tree/master/0686-repeated-string-match) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
