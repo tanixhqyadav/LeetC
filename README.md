@@ -76,6 +76,7 @@ A repo for all of my LC's question
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanixhqyadav/LeetC/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3055-maximum-odd-binary-number](https://github.com/tanixhqyadav/LeetC/tree/master/3055-maximum-odd-binary-number) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/tanixhqyadav/LeetC/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -86,6 +87,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/tanixhqyadav/LeetC/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -135,6 +137,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Counting
 |  |
@@ -261,6 +264,7 @@ A repo for all of my LC's question
 | ------- |
 | [0134-gas-station](https://github.com/tanixhqyadav/LeetC/tree/master/0134-gas-station) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3055-maximum-odd-binary-number](https://github.com/tanixhqyadav/LeetC/tree/master/3055-maximum-odd-binary-number) |
 ## Graph
 |  |
