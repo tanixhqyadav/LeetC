@@ -1,29 +1,31 @@
 class Solution {
     public String smallestNumber(String p) {
-        String op=Construct(p);
-        return op;
+        String h=hola(p);
+        return h;
     }
-    public static String Construct(String str){
-        int ans[]=new int[str.length()+1];
-        int count=1;
+    public static String hola(String s){
+        int ar[]=new int[s.length()+1];
+        int c=1;
         Stack<Integer> st=new Stack<>();
-        for(int i=0;i<=str.length();i++){
-            if(i==str.length() || str.charAt(i)=='I'){
-                ans[i]=count;
-                count++;
-                while(!st.empty()){
-                    ans[st.pop()]=count;
-                    count++;
+        for(int i=0;i<=s.length();i++){
+            if(i==s.length() || s.charAt(i)=='I'){
+                ar[i]=c;
+                c++;
+                while(!st.isEmpty()){
+                    ar[st.pop()]=c;
+                    c++;
                 }
             }
             else{
                 st.push(i);
             }
         }
-        String s="";
-        for(int i=0;i<ans.length;i++){
-            s=s+ans[i];
+        String ans="";
+        for(int i=0;i<ar.length;i++){
+            ans+=ar[i];
         }
-        return s;
+        return ans;
+
     }
+    
 }
