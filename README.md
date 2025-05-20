@@ -67,6 +67,7 @@ A repo for all of my LC's question
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tanixhqyadav/LeetC/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3707-find-the-most-common-response](https://github.com/tanixhqyadav/LeetC/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanixhqyadav/LeetC/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A repo for all of my LC's question
 | [3707-find-the-most-common-response](https://github.com/tanixhqyadav/LeetC/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/tanixhqyadav/LeetC/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanixhqyadav/LeetC/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A repo for all of my LC's question
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanixhqyadav/LeetC/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3778-transform-array-by-parity](https://github.com/tanixhqyadav/LeetC/tree/master/3778-transform-array-by-parity) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/tanixhqyadav/LeetC/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanixhqyadav/LeetC/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A repo for all of my LC's question
 | [3707-find-the-most-common-response](https://github.com/tanixhqyadav/LeetC/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/tanixhqyadav/LeetC/tree/master/3778-transform-array-by-parity) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanixhqyadav/LeetC/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -274,6 +278,7 @@ A repo for all of my LC's question
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3055-maximum-odd-binary-number](https://github.com/tanixhqyadav/LeetC/tree/master/3055-maximum-odd-binary-number) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanixhqyadav/LeetC/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Graph
 |  |
 | ------- |
