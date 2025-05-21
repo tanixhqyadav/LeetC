@@ -10,6 +10,7 @@ A repo for all of my LC's question
 | [0015-3sum](https://github.com/tanixhqyadav/LeetC/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/tanixhqyadav/LeetC/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/tanixhqyadav/LeetC/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
@@ -110,6 +111,7 @@ A repo for all of my LC's question
 | ------- |
 | [0015-3sum](https://github.com/tanixhqyadav/LeetC/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/tanixhqyadav/LeetC/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
@@ -223,6 +225,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tanixhqyadav/LeetC/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/tanixhqyadav/LeetC/tree/master/0075-sort-colors) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
 ## Tree
