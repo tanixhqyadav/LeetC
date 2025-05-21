@@ -36,6 +36,7 @@ A repo for all of my LC's question
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tanixhqyadav/LeetC/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanixhqyadav/LeetC/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3321-type-of-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/3321-type-of-triangle) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanixhqyadav/LeetC/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/tanixhqyadav/LeetC/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/tanixhqyadav/LeetC/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -119,6 +120,7 @@ A repo for all of my LC's question
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tanixhqyadav/LeetC/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanixhqyadav/LeetC/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3321-type-of-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/tanixhqyadav/LeetC/tree/master/3778-transform-array-by-parity) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/tanixhqyadav/LeetC/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanixhqyadav/LeetC/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -142,6 +144,7 @@ A repo for all of my LC's question
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/tanixhqyadav/LeetC/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tanixhqyadav/LeetC/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3830-find-closest-person](https://github.com/tanixhqyadav/LeetC/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanixhqyadav/LeetC/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
