@@ -9,6 +9,7 @@ A repo for all of my LC's question
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/tanixhqyadav/LeetC/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/tanixhqyadav/LeetC/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
@@ -49,6 +50,7 @@ A repo for all of my LC's question
 | ------- |
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanixhqyadav/LeetC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
 | [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
 | [0575-distribute-candies](https://github.com/tanixhqyadav/LeetC/tree/master/0575-distribute-candies) |
@@ -164,6 +166,7 @@ A repo for all of my LC's question
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tanixhqyadav/LeetC/tree/master/0733-flood-fill) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
