@@ -105,6 +105,7 @@ A repo for all of my LC's question
 ## Simulation
 |  |
 | ------- |
+| [2645-pass-the-pillow](https://github.com/tanixhqyadav/LeetC/tree/master/2645-pass-the-pillow) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/tanixhqyadav/LeetC/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3447-clear-digits](https://github.com/tanixhqyadav/LeetC/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tanixhqyadav/LeetC/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -146,6 +147,7 @@ A repo for all of my LC's question
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2645-pass-the-pillow](https://github.com/tanixhqyadav/LeetC/tree/master/2645-pass-the-pillow) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3055-maximum-odd-binary-number](https://github.com/tanixhqyadav/LeetC/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
