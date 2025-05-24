@@ -5,20 +5,19 @@ class Solution {
             mp.put(nums[i],mp.getOrDefault(nums[i],0)+1);
         }
         List<Integer> l=new ArrayList<>();
-        for(int i:nums){
-            l.add(i);
+        for(int i=0;i<nums.length;i++){
+            l.add(nums[i]);
         }
-        Collections.sort(l,(a,b)-> {
-            if(mp.get(a)==mp.get(b)){
+        Collections.sort(l,(a,b)->{
+            if(mp.get(a).equals(mp.get(b))){
                 return Integer.compare(b,a);
             }
             return Integer.compare(mp.get(a),mp.get(b));
-        }
-        );
-        int ar[]=new int[nums.length];
+        });
+        int y[]=new int[l.size()];
         for(int i=0;i<nums.length;i++){
-            ar[i]=l.get(i);
+            y[i]=l.get(i);
         }
-        return ar;
+        return y;
     }
 }
