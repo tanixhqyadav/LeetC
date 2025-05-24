@@ -87,6 +87,7 @@ A repo for all of my LC's question
 | [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
 | [0686-repeated-string-match](https://github.com/tanixhqyadav/LeetC/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
+| [0812-rotate-string](https://github.com/tanixhqyadav/LeetC/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -310,6 +311,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/tanixhqyadav/LeetC/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/tanixhqyadav/LeetC/tree/master/0812-rotate-string) |
 ## Union Find
 |  |
 | ------- |
