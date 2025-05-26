@@ -23,6 +23,7 @@ A repo for all of my LC's question
 | [0792-binary-search](https://github.com/tanixhqyadav/LeetC/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
+| [0907-koko-eating-bananas](https://github.com/tanixhqyadav/LeetC/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanixhqyadav/LeetC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -233,6 +234,7 @@ A repo for all of my LC's question
 | [0035-search-insert-position](https://github.com/tanixhqyadav/LeetC/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/tanixhqyadav/LeetC/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/tanixhqyadav/LeetC/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/tanixhqyadav/LeetC/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanixhqyadav/LeetC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Queue
