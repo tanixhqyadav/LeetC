@@ -8,6 +8,7 @@ A repo for all of my LC's question
 | ------- |
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/tanixhqyadav/LeetC/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanixhqyadav/LeetC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanixhqyadav/LeetC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanixhqyadav/LeetC/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0056-merge-intervals) |
@@ -233,6 +234,7 @@ A repo for all of my LC's question
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanixhqyadav/LeetC/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanixhqyadav/LeetC/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanixhqyadav/LeetC/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/tanixhqyadav/LeetC/tree/master/0074-search-a-2d-matrix) |
