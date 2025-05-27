@@ -1,20 +1,36 @@
-class Solution{
-    public int[][] merge(int[][]jk){
-        if( jk.length<=1){
-            return jk;
-        }
-        Arrays.sort(jk,(a,b) -> a[0] - b[0]);
-        List<int[]>op=new ArrayList<>();
-        int[]x=jk[0];
-        for(int i=1;i<jk.length;i++){
-            if(x[1]>=jk[i][0]){
-                x[1]=Math.max(x[1],jk[i][1]);
+class Solution {
+    public int[][] merge(int[][] irv) {
+        Arrays.sort(irv , (a,b)->{
+            return Integer.compare(a[0],b[0]);
+        });
+        List<int[]> l=new ArrayList<>();
+        for(int i=0;i<irv.length;i++){
+            if(l.size()==0){
+                l.add(irv[i]);
             }else{
-                op.add(x);
-                x=jk[i];
+                int h=l.get(l.size()-1)[1];
+                int y=irv[i][0];
+                int op=irv[i][1];
+                if(y<=h){
+                    l.get(l.size()-1)[1]=Math.max(op,Math.max(h,y));
+                }
+                else{
+                    l.add(irv[i]);
+                }
             }
         }
-        op.add(x);
-        return op.toArray(new int[op.size()][]);
+        int yr[][]=new int[l.size()][2];
+        for(int i=0;i<l.size();i++){
+            yr[i]=l.get(i);
+        }
+        return yr;
+    }
+    public static void print(int ar[][]){
+        for(int i=0;i<ar.length;i++){
+            for(int j=0;j<2;j++){
+                System.out.print(ar[i][j]+" ");
+            }
+            System.out.println();
+        }
     }
 }
