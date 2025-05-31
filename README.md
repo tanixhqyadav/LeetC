@@ -185,6 +185,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/tanixhqyadav/LeetC/tree/master/0077-combinations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
