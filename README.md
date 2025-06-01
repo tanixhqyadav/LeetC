@@ -19,6 +19,7 @@ A repo for all of my LC's question
 | [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tanixhqyadav/LeetC/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tanixhqyadav/LeetC/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/tanixhqyadav/LeetC/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/tanixhqyadav/LeetC/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
@@ -191,6 +192,7 @@ A repo for all of my LC's question
 | [0046-permutations](https://github.com/tanixhqyadav/LeetC/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/tanixhqyadav/LeetC/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/tanixhqyadav/LeetC/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -234,6 +236,7 @@ A repo for all of my LC's question
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/tanixhqyadav/LeetC/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/tanixhqyadav/LeetC/tree/master/0476-number-complement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
