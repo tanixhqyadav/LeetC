@@ -270,6 +270,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanixhqyadav/LeetC/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 ## Combinatorics
 |  |
@@ -298,6 +299,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/0386-lexicographical-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/tanixhqyadav/LeetC/tree/master/0733-flood-fill) |
 | [3729-unit-conversion-i](https://github.com/tanixhqyadav/LeetC/tree/master/3729-unit-conversion-i) |
