@@ -20,6 +20,7 @@ A repo for all of my LC's question
 | [0074-search-a-2d-matrix](https://github.com/tanixhqyadav/LeetC/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tanixhqyadav/LeetC/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tanixhqyadav/LeetC/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tanixhqyadav/LeetC/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/tanixhqyadav/LeetC/tree/master/0134-gas-station) |
@@ -104,6 +105,7 @@ A repo for all of my LC's question
 | [0014-longest-common-prefix](https://github.com/tanixhqyadav/LeetC/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanixhqyadav/LeetC/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/tanixhqyadav/LeetC/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/tanixhqyadav/LeetC/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/0451-sort-characters-by-frequency) |
@@ -198,6 +200,7 @@ A repo for all of my LC's question
 | [0047-permutations-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/tanixhqyadav/LeetC/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tanixhqyadav/LeetC/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tanixhqyadav/LeetC/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -221,6 +224,7 @@ A repo for all of my LC's question
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tanixhqyadav/LeetC/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/tanixhqyadav/LeetC/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/tanixhqyadav/LeetC/tree/master/0733-flood-fill) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -298,6 +302,7 @@ A repo for all of my LC's question
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tanixhqyadav/LeetC/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/0386-lexicographical-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
