@@ -93,6 +93,7 @@ A repo for all of my LC's question
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanixhqyadav/LeetC/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tanixhqyadav/LeetC/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
@@ -123,6 +124,7 @@ A repo for all of my LC's question
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanixhqyadav/LeetC/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanixhqyadav/LeetC/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3055-maximum-odd-binary-number](https://github.com/tanixhqyadav/LeetC/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/tanixhqyadav/LeetC/tree/master/3194-find-words-containing-character) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/tanixhqyadav/LeetC/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -138,6 +140,7 @@ A repo for all of my LC's question
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/tanixhqyadav/LeetC/tree/master/0682-baseball-game) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanixhqyadav/LeetC/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/tanixhqyadav/LeetC/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -385,6 +388,7 @@ A repo for all of my LC's question
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanixhqyadav/LeetC/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3055-maximum-odd-binary-number](https://github.com/tanixhqyadav/LeetC/tree/master/3055-maximum-odd-binary-number) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanixhqyadav/LeetC/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Graph
