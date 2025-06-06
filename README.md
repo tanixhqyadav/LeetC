@@ -139,6 +139,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/tanixhqyadav/LeetC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/tanixhqyadav/LeetC/tree/master/0682-baseball-game) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -284,6 +285,7 @@ A repo for all of my LC's question
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/tanixhqyadav/LeetC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanixhqyadav/LeetC/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
@@ -421,5 +423,6 @@ A repo for all of my LC's question
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/tanixhqyadav/LeetC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
