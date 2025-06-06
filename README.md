@@ -139,6 +139,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/tanixhqyadav/LeetC/tree/master/0682-baseball-game) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanixhqyadav/LeetC/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -283,6 +284,7 @@ A repo for all of my LC's question
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanixhqyadav/LeetC/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
@@ -416,4 +418,8 @@ A repo for all of my LC's question
 | ------- |
 | [0061-rotate-list](https://github.com/tanixhqyadav/LeetC/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
