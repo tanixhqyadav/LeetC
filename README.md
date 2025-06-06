@@ -36,6 +36,7 @@ A repo for all of my LC's question
 | [0733-flood-fill](https://github.com/tanixhqyadav/LeetC/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/tanixhqyadav/LeetC/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
+| [0822-unique-morse-code-words](https://github.com/tanixhqyadav/LeetC/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/tanixhqyadav/LeetC/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
@@ -88,6 +89,7 @@ A repo for all of my LC's question
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
+| [0822-unique-morse-code-words](https://github.com/tanixhqyadav/LeetC/tree/master/0822-unique-morse-code-words) |
 | [1500-count-largest-group](https://github.com/tanixhqyadav/LeetC/tree/master/1500-count-largest-group) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/2215-finding-3-digit-even-numbers) |
@@ -120,6 +122,7 @@ A repo for all of my LC's question
 | [0686-repeated-string-match](https://github.com/tanixhqyadav/LeetC/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/tanixhqyadav/LeetC/tree/master/0812-rotate-string) |
+| [0822-unique-morse-code-words](https://github.com/tanixhqyadav/LeetC/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
