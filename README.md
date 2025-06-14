@@ -55,6 +55,7 @@ A repo for all of my LC's question
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tanixhqyadav/LeetC/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/tanixhqyadav/LeetC/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -287,6 +288,7 @@ A repo for all of my LC's question
 | [0907-koko-eating-bananas](https://github.com/tanixhqyadav/LeetC/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanixhqyadav/LeetC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A repo for all of my LC's question
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanixhqyadav/LeetC/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tanixhqyadav/LeetC/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/tanixhqyadav/LeetC/tree/master/3055-maximum-odd-binary-number) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanixhqyadav/LeetC/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Graph
