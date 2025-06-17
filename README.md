@@ -395,6 +395,7 @@ A repo for all of my LC's question
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tanixhqyadav/LeetC/tree/master/0021-merge-two-sorted-lists) |
 | [2050-count-good-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tanixhqyadav/LeetC/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
@@ -437,6 +438,7 @@ A repo for all of my LC's question
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tanixhqyadav/LeetC/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/tanixhqyadav/LeetC/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Design
