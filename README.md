@@ -55,6 +55,7 @@ A repo for all of my LC's question
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/tanixhqyadav/LeetC/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tanixhqyadav/LeetC/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -179,6 +180,7 @@ A repo for all of my LC's question
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/2215-finding-3-digit-even-numbers) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/tanixhqyadav/LeetC/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tanixhqyadav/LeetC/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tanixhqyadav/LeetC/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tanixhqyadav/LeetC/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -412,6 +414,7 @@ A repo for all of my LC's question
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tanixhqyadav/LeetC/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanixhqyadav/LeetC/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tanixhqyadav/LeetC/tree/master/2704-maximum-difference-by-remapping-a-digit) |
