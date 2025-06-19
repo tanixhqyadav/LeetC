@@ -200,6 +200,7 @@ A repo for all of my LC's question
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
@@ -439,6 +440,7 @@ A repo for all of my LC's question
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/0118-pascals-triangle) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 ## Linked List
@@ -456,4 +458,8 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
