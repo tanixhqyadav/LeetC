@@ -89,6 +89,7 @@ A repo for all of my LC's question
 | [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanixhqyadav/LeetC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanixhqyadav/LeetC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanixhqyadav/LeetC/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/tanixhqyadav/LeetC/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
@@ -336,6 +337,7 @@ A repo for all of my LC's question
 | [0018-4sum](https://github.com/tanixhqyadav/LeetC/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/tanixhqyadav/LeetC/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/tanixhqyadav/LeetC/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanixhqyadav/LeetC/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -463,6 +465,7 @@ A repo for all of my LC's question
 | [0021-merge-two-sorted-lists](https://github.com/tanixhqyadav/LeetC/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/tanixhqyadav/LeetC/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanixhqyadav/LeetC/tree/master/0160-intersection-of-two-linked-lists) |
 ## Design
 |  |
 | ------- |
