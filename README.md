@@ -28,6 +28,7 @@ A repo for all of my LC's question
 | [0118-pascals-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/tanixhqyadav/LeetC/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tanixhqyadav/LeetC/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/tanixhqyadav/LeetC/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
@@ -154,6 +155,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/tanixhqyadav/LeetC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/tanixhqyadav/LeetC/tree/master/0682-baseball-game) |
@@ -210,6 +212,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
