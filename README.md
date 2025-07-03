@@ -45,6 +45,7 @@ A repo for all of my LC's question
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/tanixhqyadav/LeetC/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
+| [0940-fruit-into-baskets](https://github.com/tanixhqyadav/LeetC/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanixhqyadav/LeetC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -109,6 +110,7 @@ A repo for all of my LC's question
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/tanixhqyadav/LeetC/tree/master/0822-unique-morse-code-words) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0940-fruit-into-baskets](https://github.com/tanixhqyadav/LeetC/tree/master/0940-fruit-into-baskets) |
 | [1500-count-largest-group](https://github.com/tanixhqyadav/LeetC/tree/master/1500-count-largest-group) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tanixhqyadav/LeetC/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -307,6 +309,7 @@ A repo for all of my LC's question
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanixhqyadav/LeetC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/tanixhqyadav/LeetC/tree/master/0940-fruit-into-baskets) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tanixhqyadav/LeetC/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanixhqyadav/LeetC/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
