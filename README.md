@@ -49,6 +49,7 @@ A repo for all of my LC's question
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanixhqyadav/LeetC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanixhqyadav/LeetC/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tanixhqyadav/LeetC/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/tanixhqyadav/LeetC/tree/master/1656-count-good-triplets) |
@@ -112,6 +113,7 @@ A repo for all of my LC's question
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/tanixhqyadav/LeetC/tree/master/0940-fruit-into-baskets) |
 | [1500-count-largest-group](https://github.com/tanixhqyadav/LeetC/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tanixhqyadav/LeetC/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/2215-finding-3-digit-even-numbers) |
@@ -278,6 +280,7 @@ A repo for all of my LC's question
 | [0451-sort-characters-by-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
 | [2486-most-frequent-even-element](https://github.com/tanixhqyadav/LeetC/tree/master/2486-most-frequent-even-element) |
