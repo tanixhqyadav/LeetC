@@ -91,6 +91,7 @@ A repo for all of my LC's question
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tanixhqyadav/LeetC/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/tanixhqyadav/LeetC/tree/master/3778-transform-array-by-parity) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanixhqyadav/LeetC/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3903-inverse-coin-change](https://github.com/tanixhqyadav/LeetC/tree/master/3903-inverse-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -504,6 +505,7 @@ A repo for all of my LC's question
 | [0646-maximum-length-of-pair-chain](https://github.com/tanixhqyadav/LeetC/tree/master/0646-maximum-length-of-pair-chain) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tanixhqyadav/LeetC/tree/master/3618-find-the-original-typed-string-ii) |
+| [3903-inverse-coin-change](https://github.com/tanixhqyadav/LeetC/tree/master/3903-inverse-coin-change) |
 ## Linked List
 |  |
 | ------- |
