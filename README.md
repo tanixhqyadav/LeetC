@@ -30,6 +30,7 @@ A repo for all of my LC's question
 | [0135-candy](https://github.com/tanixhqyadav/LeetC/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/tanixhqyadav/LeetC/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/tanixhqyadav/LeetC/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/tanixhqyadav/LeetC/tree/master/0455-assign-cookies) |
@@ -506,6 +507,7 @@ A repo for all of my LC's question
 | [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/tanixhqyadav/LeetC/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/tanixhqyadav/LeetC/tree/master/0198-house-robber) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanixhqyadav/LeetC/tree/master/0646-maximum-length-of-pair-chain) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tanixhqyadav/LeetC/tree/master/3618-find-the-original-typed-string-ii) |
