@@ -57,6 +57,7 @@ A repo for all of my LC's question
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tanixhqyadav/LeetC/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/tanixhqyadav/LeetC/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanixhqyadav/LeetC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/tanixhqyadav/LeetC/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -213,6 +214,7 @@ A repo for all of my LC's question
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanixhqyadav/LeetC/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tanixhqyadav/LeetC/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanixhqyadav/LeetC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/tanixhqyadav/LeetC/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/2215-finding-3-digit-even-numbers) |
@@ -345,6 +347,7 @@ A repo for all of my LC's question
 | [0907-koko-eating-bananas](https://github.com/tanixhqyadav/LeetC/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanixhqyadav/LeetC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tanixhqyadav/LeetC/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanixhqyadav/LeetC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Queue
@@ -510,6 +513,7 @@ A repo for all of my LC's question
 | [0198-house-robber](https://github.com/tanixhqyadav/LeetC/tree/master/0198-house-robber) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanixhqyadav/LeetC/tree/master/0646-maximum-length-of-pair-chain) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanixhqyadav/LeetC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tanixhqyadav/LeetC/tree/master/3618-find-the-original-typed-string-ii) |
 | [3903-inverse-coin-change](https://github.com/tanixhqyadav/LeetC/tree/master/3903-inverse-coin-change) |
 ## Linked List
