@@ -254,6 +254,7 @@ A repo for all of my LC's question
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanixhqyadav/LeetC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/tanixhqyadav/LeetC/tree/master/1500-count-largest-group) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/tanixhqyadav/LeetC/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -536,6 +537,7 @@ A repo for all of my LC's question
 | [0061-rotate-list](https://github.com/tanixhqyadav/LeetC/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanixhqyadav/LeetC/tree/master/0160-intersection-of-two-linked-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanixhqyadav/LeetC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
