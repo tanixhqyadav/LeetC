@@ -52,6 +52,7 @@ A repo for all of my LC's question
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/tanixhqyadav/LeetC/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
+| [1025-minimum-cost-for-tickets](https://github.com/tanixhqyadav/LeetC/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanixhqyadav/LeetC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanixhqyadav/LeetC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -535,6 +536,7 @@ A repo for all of my LC's question
 | [0435-non-overlapping-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanixhqyadav/LeetC/tree/master/0646-maximum-length-of-pair-chain) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
+| [1025-minimum-cost-for-tickets](https://github.com/tanixhqyadav/LeetC/tree/master/1025-minimum-cost-for-tickets) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanixhqyadav/LeetC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/tanixhqyadav/LeetC/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tanixhqyadav/LeetC/tree/master/3618-find-the-original-typed-string-ii) |
