@@ -161,6 +161,7 @@ A repo for all of my LC's question
 | [0812-rotate-string](https://github.com/tanixhqyadav/LeetC/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/tanixhqyadav/LeetC/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -290,6 +291,7 @@ A repo for all of my LC's question
 | [0078-subsets](https://github.com/tanixhqyadav/LeetC/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tanixhqyadav/LeetC/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0090-subsets-ii) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -414,6 +416,7 @@ A repo for all of my LC's question
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A repo for all of my LC's question
 | [0733-flood-fill](https://github.com/tanixhqyadav/LeetC/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
 | [3729-unit-conversion-i](https://github.com/tanixhqyadav/LeetC/tree/master/3729-unit-conversion-i) |
 ## Breadth-First Search
 |  |
@@ -453,6 +457,7 @@ A repo for all of my LC's question
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Bucket Sort
 |  |
 | ------- |
