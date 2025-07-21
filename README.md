@@ -162,6 +162,7 @@ A repo for all of my LC's question
 | [0822-unique-morse-code-words](https://github.com/tanixhqyadav/LeetC/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/tanixhqyadav/LeetC/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
