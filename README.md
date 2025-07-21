@@ -54,6 +54,7 @@ A repo for all of my LC's question
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
 | [1025-minimum-cost-for-tickets](https://github.com/tanixhqyadav/LeetC/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanixhqyadav/LeetC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanixhqyadav/LeetC/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanixhqyadav/LeetC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -163,6 +164,7 @@ A repo for all of my LC's question
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tanixhqyadav/LeetC/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanixhqyadav/LeetC/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -380,6 +382,7 @@ A repo for all of my LC's question
 | [0014-longest-common-prefix](https://github.com/tanixhqyadav/LeetC/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanixhqyadav/LeetC/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Combinatorics
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A repo for all of my LC's question
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanixhqyadav/LeetC/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3729-unit-conversion-i](https://github.com/tanixhqyadav/LeetC/tree/master/3729-unit-conversion-i) |
 ## Breadth-First Search
 |  |
