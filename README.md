@@ -166,6 +166,7 @@ A repo for all of my LC's question
 | [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tanixhqyadav/LeetC/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanixhqyadav/LeetC/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/tanixhqyadav/LeetC/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -195,6 +196,7 @@ A repo for all of my LC's question
 | [0225-implement-stack-using-queues](https://github.com/tanixhqyadav/LeetC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/tanixhqyadav/LeetC/tree/master/0682-baseball-game) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/tanixhqyadav/LeetC/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanixhqyadav/LeetC/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -514,6 +516,7 @@ A repo for all of my LC's question
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanixhqyadav/LeetC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/tanixhqyadav/LeetC/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/tanixhqyadav/LeetC/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/tanixhqyadav/LeetC/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/tanixhqyadav/LeetC/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
