@@ -102,6 +102,7 @@ A repo for all of my LC's question
 | [3707-find-the-most-common-response](https://github.com/tanixhqyadav/LeetC/tree/master/3707-find-the-most-common-response) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/tanixhqyadav/LeetC/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/tanixhqyadav/LeetC/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tanixhqyadav/LeetC/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanixhqyadav/LeetC/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-inverse-coin-change](https://github.com/tanixhqyadav/LeetC/tree/master/3903-inverse-coin-change) |
 ## Hash Table
@@ -146,6 +147,7 @@ A repo for all of my LC's question
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tanixhqyadav/LeetC/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3707-find-the-most-common-response](https://github.com/tanixhqyadav/LeetC/tree/master/3707-find-the-most-common-response) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tanixhqyadav/LeetC/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tanixhqyadav/LeetC/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanixhqyadav/LeetC/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## String
 |  |
@@ -528,6 +530,7 @@ A repo for all of my LC's question
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/tanixhqyadav/LeetC/tree/master/3055-maximum-odd-binary-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/tanixhqyadav/LeetC/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tanixhqyadav/LeetC/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/tanixhqyadav/LeetC/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Graph
 |  |
