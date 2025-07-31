@@ -83,6 +83,7 @@ A repo for all of my LC's question
 | [2486-most-frequent-even-element](https://github.com/tanixhqyadav/LeetC/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tanixhqyadav/LeetC/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/tanixhqyadav/LeetC/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tanixhqyadav/LeetC/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -139,6 +140,7 @@ A repo for all of my LC's question
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/tanixhqyadav/LeetC/tree/master/2486-most-frequent-even-element) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/tanixhqyadav/LeetC/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/tanixhqyadav/LeetC/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/tanixhqyadav/LeetC/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/tanixhqyadav/LeetC/tree/master/3227-find-missing-and-repeated-values) |
@@ -419,6 +421,7 @@ A repo for all of my LC's question
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/tanixhqyadav/LeetC/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/tanixhqyadav/LeetC/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/tanixhqyadav/LeetC/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Tree
 |  |
