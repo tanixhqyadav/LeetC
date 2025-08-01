@@ -432,6 +432,7 @@ A repo for all of my LC's question
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -443,6 +444,7 @@ A repo for all of my LC's question
 | [0386-lexicographical-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/0386-lexicographical-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/tanixhqyadav/LeetC/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -474,6 +476,7 @@ A repo for all of my LC's question
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
