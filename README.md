@@ -47,6 +47,7 @@ A repo for all of my LC's question
 | [0792-binary-search](https://github.com/tanixhqyadav/LeetC/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/tanixhqyadav/LeetC/tree/master/0822-unique-morse-code-words) |
+| [0835-linked-list-components](https://github.com/tanixhqyadav/LeetC/tree/master/0835-linked-list-components) |
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/tanixhqyadav/LeetC/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/tanixhqyadav/LeetC/tree/master/0907-koko-eating-bananas) |
@@ -127,6 +128,7 @@ A repo for all of my LC's question
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/tanixhqyadav/LeetC/tree/master/0822-unique-morse-code-words) |
+| [0835-linked-list-components](https://github.com/tanixhqyadav/LeetC/tree/master/0835-linked-list-components) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/tanixhqyadav/LeetC/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -577,6 +579,7 @@ A repo for all of my LC's question
 | [0061-rotate-list](https://github.com/tanixhqyadav/LeetC/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanixhqyadav/LeetC/tree/master/0160-intersection-of-two-linked-lists) |
+| [0835-linked-list-components](https://github.com/tanixhqyadav/LeetC/tree/master/0835-linked-list-components) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanixhqyadav/LeetC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
