@@ -9,7 +9,7 @@ class Solution {
         // System.out.println(piche1+" "+piche);
         int po=Integer.parseInt(ange)*Integer.parseInt(ange1);
         int op=(Integer.parseInt(ange)*Integer.parseInt(piche1));
-        int po1=Integer.parseInt(piche1)*Integer.parseInt(ange1);
+        int po1=Integer.parseInt(piche)*Integer.parseInt(ange1);
         int op1=(Integer.parseInt(piche)*Integer.parseInt(piche1));
         int real=po-op1;                 
         int imag=op+po1;               
