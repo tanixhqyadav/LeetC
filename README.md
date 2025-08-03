@@ -166,6 +166,7 @@ A repo for all of my LC's question
 | [0242-valid-anagram](https://github.com/tanixhqyadav/LeetC/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/0451-sort-characters-by-frequency) |
+| [0537-complex-number-multiplication](https://github.com/tanixhqyadav/LeetC/tree/master/0537-complex-number-multiplication) |
 | [0686-repeated-string-match](https://github.com/tanixhqyadav/LeetC/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/tanixhqyadav/LeetC/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/tanixhqyadav/LeetC/tree/master/0812-rotate-string) |
@@ -212,6 +213,7 @@ A repo for all of my LC's question
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/tanixhqyadav/LeetC/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/tanixhqyadav/LeetC/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
@@ -273,6 +275,7 @@ A repo for all of my LC's question
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0537-complex-number-multiplication](https://github.com/tanixhqyadav/LeetC/tree/master/0537-complex-number-multiplication) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
