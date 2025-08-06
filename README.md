@@ -574,6 +574,7 @@ A repo for all of my LC's question
 | [0646-maximum-length-of-pair-chain](https://github.com/tanixhqyadav/LeetC/tree/master/0646-maximum-length-of-pair-chain) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/tanixhqyadav/LeetC/tree/master/1025-minimum-cost-for-tickets) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/tanixhqyadav/LeetC/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanixhqyadav/LeetC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/tanixhqyadav/LeetC/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tanixhqyadav/LeetC/tree/master/3618-find-the-original-typed-string-ii) |
