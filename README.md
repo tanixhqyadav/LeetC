@@ -275,6 +275,7 @@ A repo for all of my LC's question
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/tanixhqyadav/LeetC/tree/master/0231-power-of-two) |
 | [0537-complex-number-multiplication](https://github.com/tanixhqyadav/LeetC/tree/master/0537-complex-number-multiplication) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
@@ -365,6 +366,7 @@ A repo for all of my LC's question
 | ------- |
 | [0078-subsets](https://github.com/tanixhqyadav/LeetC/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/tanixhqyadav/LeetC/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/tanixhqyadav/LeetC/tree/master/0476-number-complement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
@@ -516,6 +518,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanixhqyadav/LeetC/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/tanixhqyadav/LeetC/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/tanixhqyadav/LeetC/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
