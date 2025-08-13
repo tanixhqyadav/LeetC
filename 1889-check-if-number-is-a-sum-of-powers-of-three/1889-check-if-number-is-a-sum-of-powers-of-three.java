@@ -31,10 +31,5 @@ class Solution {
         }
         return c;
     }
-    public static boolean  powT(int n){
-        // System.out.println(n);
-        if(n==1) return true;
-        if( n==0 && n%3!=0) return false;
-        return powT(n/3);
-    }
+    
 }
