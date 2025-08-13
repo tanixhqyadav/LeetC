@@ -159,6 +159,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanixhqyadav/LeetC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/tanixhqyadav/LeetC/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tanixhqyadav/LeetC/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/tanixhqyadav/LeetC/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanixhqyadav/LeetC/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -423,6 +424,7 @@ A repo for all of my LC's question
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanixhqyadav/LeetC/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/tanixhqyadav/LeetC/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanixhqyadav/LeetC/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/tanixhqyadav/LeetC/tree/master/0061-rotate-list) |
@@ -573,6 +575,7 @@ A repo for all of my LC's question
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanixhqyadav/LeetC/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/tanixhqyadav/LeetC/tree/master/0152-maximum-product-subarray) |
