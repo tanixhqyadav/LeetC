@@ -114,6 +114,7 @@ A repo for all of my LC's question
 | ------- |
 | [0001-two-sum](https://github.com/tanixhqyadav/LeetC/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanixhqyadav/LeetC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/tanixhqyadav/LeetC/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanixhqyadav/LeetC/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanixhqyadav/LeetC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -162,6 +163,7 @@ A repo for all of my LC's question
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanixhqyadav/LeetC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/tanixhqyadav/LeetC/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tanixhqyadav/LeetC/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/tanixhqyadav/LeetC/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/tanixhqyadav/LeetC/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanixhqyadav/LeetC/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
@@ -279,6 +281,7 @@ A repo for all of my LC's question
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tanixhqyadav/LeetC/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tanixhqyadav/LeetC/tree/master/0231-power-of-two) |
