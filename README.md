@@ -123,6 +123,7 @@ A repo for all of my LC's question
 | [0242-valid-anagram](https://github.com/tanixhqyadav/LeetC/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/tanixhqyadav/LeetC/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/tanixhqyadav/LeetC/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/0594-longest-harmonious-subsequence) |
@@ -170,6 +171,7 @@ A repo for all of my LC's question
 | [0079-word-search](https://github.com/tanixhqyadav/LeetC/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/tanixhqyadav/LeetC/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/tanixhqyadav/LeetC/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/0451-sort-characters-by-frequency) |
 | [0537-complex-number-multiplication](https://github.com/tanixhqyadav/LeetC/tree/master/0537-complex-number-multiplication) |
 | [0686-repeated-string-match](https://github.com/tanixhqyadav/LeetC/tree/master/0686-repeated-string-match) |
@@ -286,6 +288,7 @@ A repo for all of my LC's question
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tanixhqyadav/LeetC/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tanixhqyadav/LeetC/tree/master/0342-power-of-four) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/tanixhqyadav/LeetC/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0537-complex-number-multiplication](https://github.com/tanixhqyadav/LeetC/tree/master/0537-complex-number-multiplication) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/tanixhqyadav/LeetC/tree/master/0900-reordered-power-of-2) |
