@@ -385,6 +385,7 @@ A repo for all of my LC's question
 | [0090-subsets-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/tanixhqyadav/LeetC/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tanixhqyadav/LeetC/tree/master/0342-power-of-four) |
+| [0461-hamming-distance](https://github.com/tanixhqyadav/LeetC/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/tanixhqyadav/LeetC/tree/master/0476-number-complement) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tanixhqyadav/LeetC/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tanixhqyadav/LeetC/tree/master/2308-divide-array-into-equal-pairs) |
