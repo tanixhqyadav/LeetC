@@ -461,6 +461,7 @@ A repo for all of my LC's question
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanixhqyadav/LeetC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/tanixhqyadav/LeetC/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -474,6 +475,7 @@ A repo for all of my LC's question
 | [0079-word-search](https://github.com/tanixhqyadav/LeetC/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/0386-lexicographical-numbers) |
+| [0617-merge-two-binary-trees](https://github.com/tanixhqyadav/LeetC/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -487,6 +489,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
+| [0617-merge-two-binary-trees](https://github.com/tanixhqyadav/LeetC/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/tanixhqyadav/LeetC/tree/master/0733-flood-fill) |
@@ -507,6 +510,7 @@ A repo for all of my LC's question
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanixhqyadav/LeetC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/tanixhqyadav/LeetC/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
