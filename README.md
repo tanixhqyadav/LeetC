@@ -224,6 +224,7 @@ A repo for all of my LC's question
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/tanixhqyadav/LeetC/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/tanixhqyadav/LeetC/tree/master/0682-baseball-game) |
+| [1195-distribute-candies-to-people](https://github.com/tanixhqyadav/LeetC/tree/master/1195-distribute-candies-to-people) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tanixhqyadav/LeetC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -295,6 +296,7 @@ A repo for all of my LC's question
 | [0900-reordered-power-of-2](https://github.com/tanixhqyadav/LeetC/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
+| [1195-distribute-candies-to-people](https://github.com/tanixhqyadav/LeetC/tree/master/1195-distribute-candies-to-people) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanixhqyadav/LeetC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/tanixhqyadav/LeetC/tree/master/1448-maximum-69-number) |
