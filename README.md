@@ -59,6 +59,7 @@ A repo for all of my LC's question
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tanixhqyadav/LeetC/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanixhqyadav/LeetC/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanixhqyadav/LeetC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanixhqyadav/LeetC/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -138,6 +139,7 @@ A repo for all of my LC's question
 | [0900-reordered-power-of-2](https://github.com/tanixhqyadav/LeetC/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/tanixhqyadav/LeetC/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1500-count-largest-group](https://github.com/tanixhqyadav/LeetC/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -255,6 +257,7 @@ A repo for all of my LC's question
 | [0900-reordered-power-of-2](https://github.com/tanixhqyadav/LeetC/tree/master/0900-reordered-power-of-2) |
 | [1014-k-closest-points-to-origin](https://github.com/tanixhqyadav/LeetC/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/tanixhqyadav/LeetC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanixhqyadav/LeetC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanixhqyadav/LeetC/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/tanixhqyadav/LeetC/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -569,6 +572,7 @@ A repo for all of my LC's question
 | [0646-maximum-length-of-pair-chain](https://github.com/tanixhqyadav/LeetC/tree/master/0646-maximum-length-of-pair-chain) |
 | [0797-rabbits-in-forest](https://github.com/tanixhqyadav/LeetC/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/tanixhqyadav/LeetC/tree/master/0890-lemonade-change) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/tanixhqyadav/LeetC/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanixhqyadav/LeetC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/tanixhqyadav/LeetC/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
