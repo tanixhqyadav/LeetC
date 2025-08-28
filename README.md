@@ -234,6 +234,7 @@ A repo for all of my LC's question
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2239-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2239-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/tanixhqyadav/LeetC/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/tanixhqyadav/LeetC/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2645-pass-the-pillow](https://github.com/tanixhqyadav/LeetC/tree/master/2645-pass-the-pillow) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/tanixhqyadav/LeetC/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3447-clear-digits](https://github.com/tanixhqyadav/LeetC/tree/master/3447-clear-digits) |
@@ -317,6 +318,7 @@ A repo for all of my LC's question
 | [2050-count-good-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tanixhqyadav/LeetC/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tanixhqyadav/LeetC/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/tanixhqyadav/LeetC/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2645-pass-the-pillow](https://github.com/tanixhqyadav/LeetC/tree/master/2645-pass-the-pillow) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/tanixhqyadav/LeetC/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/tanixhqyadav/LeetC/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -655,4 +657,8 @@ A repo for all of my LC's question
 | [0595-big-countries](https://github.com/tanixhqyadav/LeetC/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/tanixhqyadav/LeetC/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tanixhqyadav/LeetC/tree/master/1908-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/tanixhqyadav/LeetC/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
