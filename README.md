@@ -17,6 +17,7 @@ A repo for all of my LC's question
 | [0040-combination-sum-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tanixhqyadav/LeetC/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/tanixhqyadav/LeetC/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tanixhqyadav/LeetC/tree/master/0074-search-a-2d-matrix) |
@@ -573,6 +574,7 @@ A repo for all of my LC's question
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tanixhqyadav/LeetC/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/tanixhqyadav/LeetC/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tanixhqyadav/LeetC/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0435-non-overlapping-intervals) |
@@ -617,6 +619,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanixhqyadav/LeetC/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/tanixhqyadav/LeetC/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanixhqyadav/LeetC/tree/master/0121-best-time-to-buy-and-sell-stock) |
