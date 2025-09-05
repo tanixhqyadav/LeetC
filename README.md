@@ -28,6 +28,7 @@ A repo for all of my LC's question
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanixhqyadav/LeetC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanixhqyadav/LeetC/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanixhqyadav/LeetC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/tanixhqyadav/LeetC/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tanixhqyadav/LeetC/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -618,6 +619,7 @@ A repo for all of my LC's question
 | [0005-longest-palindromic-substring](https://github.com/tanixhqyadav/LeetC/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tanixhqyadav/LeetC/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanixhqyadav/LeetC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/tanixhqyadav/LeetC/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tanixhqyadav/LeetC/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/0300-longest-increasing-subsequence) |
