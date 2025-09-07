@@ -42,6 +42,7 @@ A repo for all of my LC's question
 | [0435-non-overlapping-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanixhqyadav/LeetC/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/tanixhqyadav/LeetC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/tanixhqyadav/LeetC/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanixhqyadav/LeetC/tree/master/0646-maximum-length-of-pair-chain) |
@@ -225,6 +226,7 @@ A repo for all of my LC's question
 | [0225-implement-stack-using-queues](https://github.com/tanixhqyadav/LeetC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/tanixhqyadav/LeetC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/tanixhqyadav/LeetC/tree/master/0682-baseball-game) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tanixhqyadav/LeetC/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -680,4 +682,5 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tanixhqyadav/LeetC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
