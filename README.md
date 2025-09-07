@@ -41,6 +41,7 @@ A repo for all of my LC's question
 | [0354-russian-doll-envelopes](https://github.com/tanixhqyadav/LeetC/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanixhqyadav/LeetC/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/tanixhqyadav/LeetC/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/tanixhqyadav/LeetC/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tanixhqyadav/LeetC/tree/master/0646-maximum-length-of-pair-chain) |
@@ -132,6 +133,7 @@ A repo for all of my LC's question
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/tanixhqyadav/LeetC/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0451-sort-characters-by-frequency](https://github.com/tanixhqyadav/LeetC/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/tanixhqyadav/LeetC/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/tanixhqyadav/LeetC/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tanixhqyadav/LeetC/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -222,6 +224,7 @@ A repo for all of my LC's question
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/tanixhqyadav/LeetC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/tanixhqyadav/LeetC/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/tanixhqyadav/LeetC/tree/master/0682-baseball-game) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tanixhqyadav/LeetC/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -673,4 +676,8 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/tanixhqyadav/LeetC/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/tanixhqyadav/LeetC/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
