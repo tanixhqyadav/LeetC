@@ -65,6 +65,7 @@ A repo for all of my LC's question
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanixhqyadav/LeetC/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/tanixhqyadav/LeetC/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tanixhqyadav/LeetC/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/tanixhqyadav/LeetC/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tanixhqyadav/LeetC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tanixhqyadav/LeetC/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -317,6 +318,7 @@ A repo for all of my LC's question
 | [1195-distribute-candies-to-people](https://github.com/tanixhqyadav/LeetC/tree/master/1195-distribute-candies-to-people) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/tanixhqyadav/LeetC/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/tanixhqyadav/LeetC/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/tanixhqyadav/LeetC/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/tanixhqyadav/LeetC/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/tanixhqyadav/LeetC/tree/master/1500-count-largest-group) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/tanixhqyadav/LeetC/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
