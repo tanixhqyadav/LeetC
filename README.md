@@ -17,6 +17,7 @@ A repo for all of my LC's question
 | [0040-combination-sum-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tanixhqyadav/LeetC/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/tanixhqyadav/LeetC/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/tanixhqyadav/LeetC/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
@@ -127,6 +128,7 @@ A repo for all of my LC's question
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanixhqyadav/LeetC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/tanixhqyadav/LeetC/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanixhqyadav/LeetC/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/tanixhqyadav/LeetC/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanixhqyadav/LeetC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanixhqyadav/LeetC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -182,6 +184,7 @@ A repo for all of my LC's question
 | [0014-longest-common-prefix](https://github.com/tanixhqyadav/LeetC/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanixhqyadav/LeetC/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/tanixhqyadav/LeetC/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/tanixhqyadav/LeetC/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/tanixhqyadav/LeetC/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/tanixhqyadav/LeetC/tree/master/0299-bulls-and-cows) |
@@ -256,6 +259,7 @@ A repo for all of my LC's question
 | [0016-3sum-closest](https://github.com/tanixhqyadav/LeetC/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/tanixhqyadav/LeetC/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/tanixhqyadav/LeetC/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tanixhqyadav/LeetC/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tanixhqyadav/LeetC/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/tanixhqyadav/LeetC/tree/master/0242-valid-anagram) |
