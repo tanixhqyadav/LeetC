@@ -36,6 +36,7 @@ A repo for all of my LC's question
 | [0152-maximum-product-subarray](https://github.com/tanixhqyadav/LeetC/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tanixhqyadav/LeetC/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tanixhqyadav/LeetC/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/tanixhqyadav/LeetC/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/tanixhqyadav/LeetC/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/tanixhqyadav/LeetC/tree/master/0354-russian-doll-envelopes) |
@@ -390,6 +391,7 @@ A repo for all of my LC's question
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/tanixhqyadav/LeetC/tree/master/0238-product-of-array-except-self) |
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanixhqyadav/LeetC/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tanixhqyadav/LeetC/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
