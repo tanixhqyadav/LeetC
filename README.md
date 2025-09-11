@@ -199,6 +199,7 @@ A repo for all of my LC's question
 | [0822-unique-morse-code-words](https://github.com/tanixhqyadav/LeetC/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/tanixhqyadav/LeetC/tree/master/0878-shifting-letters) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/tanixhqyadav/LeetC/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1250-longest-common-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tanixhqyadav/LeetC/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanixhqyadav/LeetC/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tanixhqyadav/LeetC/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -648,6 +649,7 @@ A repo for all of my LC's question
 | [0646-maximum-length-of-pair-chain](https://github.com/tanixhqyadav/LeetC/tree/master/0646-maximum-length-of-pair-chain) |
 | [0909-stone-game](https://github.com/tanixhqyadav/LeetC/tree/master/0909-stone-game) |
 | [1025-minimum-cost-for-tickets](https://github.com/tanixhqyadav/LeetC/tree/master/1025-minimum-cost-for-tickets) |
+| [1250-longest-common-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/tanixhqyadav/LeetC/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanixhqyadav/LeetC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/tanixhqyadav/LeetC/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
