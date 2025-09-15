@@ -13,10 +13,6 @@ class Solution {
 
         Arrays.sort(nums3);    
 
-        for(int i=0;i<nums3.length;i++){
-            System.out.print(nums3[i]);
-        }
-        
         int mid = (nums3.length-1)/2;
         if(nums3.length%2!=0){
             return (double)nums3[mid];
