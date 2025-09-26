@@ -1,33 +1,30 @@
 class Solution {
     public String sortVowels(String s) {
-        char ch[]=new char[s.length()];
-        List<Character> l=new ArrayList<>();
+        ArrayList<Character> l=new ArrayList<>();
+        char po[]=new char[s.length()];
         for(int i=0;i<s.length();i++){
             if(op(s.charAt(i))){
                 l.add(s.charAt(i));
             }else{
-                ch[i]=s.charAt(i);
+                po[i]=s.charAt(i);
             }
         }
         Collections.sort(l);
-        // System.out.println(ch[1]+" "+l);
-        int b=0;
-        for(int i=0;i<ch.length;i++){
-            if(ch[i]=='\0'){
-                ch[i]=l.get(b);
-                b++;
+        int x=0;
+        for(int i=0;i<po.length;i++){
+            if(po[i]=='\0'){
+                po[i]=l.get(x);
+                x++;
             }
         }
         String ans="";
-        for(int i=0;i<ch.length;i++){
-            ans+=ch[i];
+        for(int i=0;i<po.length;i++){
+            ans+=po[i];
         }
         return ans;
     }
     public static boolean op(char ch){
-if(ch=='A' ||  ch=='E' || ch=='I' || ch=='O' || ch=='U' || ch=='a'||ch=='e'  ||      ch=='i' || ch=='o' || ch=='u'){
-                return true;
-            }
-        return false;
+        return ch=='a' || ch=='e' ||  ch=='i' ||ch=='o' || ch=='u' || ch=='A'
+        || ch=='E' ||  ch=='I' ||ch=='O' || ch=='U';
     }
 }
