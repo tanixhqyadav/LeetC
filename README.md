@@ -26,6 +26,7 @@ A repo for all of my LC's question
 | [0075-sort-colors](https://github.com/tanixhqyadav/LeetC/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tanixhqyadav/LeetC/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tanixhqyadav/LeetC/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanixhqyadav/LeetC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanixhqyadav/LeetC/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanixhqyadav/LeetC/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -234,6 +235,7 @@ A repo for all of my LC's question
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanixhqyadav/LeetC/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanixhqyadav/LeetC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/tanixhqyadav/LeetC/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanixhqyadav/LeetC/tree/master/0232-implement-queue-using-stacks) |
@@ -710,6 +712,7 @@ A repo for all of my LC's question
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tanixhqyadav/LeetC/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/tanixhqyadav/LeetC/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
