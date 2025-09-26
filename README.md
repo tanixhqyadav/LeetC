@@ -322,6 +322,7 @@ A repo for all of my LC's question
 | [0012-integer-to-roman](https://github.com/tanixhqyadav/LeetC/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/tanixhqyadav/LeetC/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanixhqyadav/LeetC/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/tanixhqyadav/LeetC/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/tanixhqyadav/LeetC/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tanixhqyadav/LeetC/tree/master/0342-power-of-four) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/tanixhqyadav/LeetC/tree/master/0423-reconstruct-original-digits-from-english) |
