@@ -128,6 +128,7 @@ A repo for all of my LC's question
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tanixhqyadav/LeetC/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/tanixhqyadav/LeetC/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-inverse-coin-change](https://github.com/tanixhqyadav/LeetC/tree/master/3903-inverse-coin-change) |
+| [4003-longest-fibonacci-subarray](https://github.com/tanixhqyadav/LeetC/tree/master/4003-longest-fibonacci-subarray) |
 ## Hash Table
 |  |
 | ------- |
