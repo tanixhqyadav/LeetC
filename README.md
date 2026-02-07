@@ -213,6 +213,7 @@ A repo for all of my LC's question
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tanixhqyadav/LeetC/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanixhqyadav/LeetC/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/tanixhqyadav/LeetC/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/tanixhqyadav/LeetC/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tanixhqyadav/LeetC/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/tanixhqyadav/LeetC/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -249,6 +250,7 @@ A repo for all of my LC's question
 | [0496-next-greater-element-i](https://github.com/tanixhqyadav/LeetC/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tanixhqyadav/LeetC/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/tanixhqyadav/LeetC/tree/master/0682-baseball-game) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/tanixhqyadav/LeetC/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tanixhqyadav/LeetC/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tanixhqyadav/LeetC/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tanixhqyadav/LeetC/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -675,6 +677,7 @@ A repo for all of my LC's question
 | [1025-minimum-cost-for-tickets](https://github.com/tanixhqyadav/LeetC/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/tanixhqyadav/LeetC/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/tanixhqyadav/LeetC/tree/master/1263-number-of-dice-rolls-with-target-sum) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/tanixhqyadav/LeetC/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/tanixhqyadav/LeetC/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/tanixhqyadav/LeetC/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3618-find-the-original-typed-string-ii](https://github.com/tanixhqyadav/LeetC/tree/master/3618-find-the-original-typed-string-ii) |
